@@ -1,3 +1,9 @@
+## 🚀 Live Demo
+
+**Try the application here:** [Diabetes Prediction ML](https://diabetes-prediction-ml-mpgg9qe28x6dypfmfrpxo6.streamlit.app/)
+
+An interactive machine learning application for diabetes risk prediction using multiple classification algorithms.
+
 # Diabetes Prediction AI
 
 An interactive machine learning application that predicts diabetes-positive or diabetes-negative classes using health measurements and a class-balanced Random Forest classifier.
