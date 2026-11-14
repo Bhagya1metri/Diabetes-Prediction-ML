@@ -1,0 +1,5 @@
+Model,CV Accuracy (%),CV Recall (%)
+Logistic Regression,78.82,57.48
+Random Forest,76.39,58.43
+Random Forest Balanced,76.87,70.55
+SVM,78.01,58.42
